@@ -34,3 +34,39 @@ html,body {
   }
 }
 
+.component-icons {
+  &__icon {
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+
+.component-gallery {
+  background-color: whitesmoke;
+  img {
+    border-radius: 5%;
+  }
+}
+
+.component-services {
+  color: #fff;
+}
+
+footer {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}

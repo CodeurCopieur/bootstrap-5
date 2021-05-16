@@ -2,3 +2,4 @@ prepros-6.config
 README.html
 node_modules/
 yarn.lock
+index.pug
